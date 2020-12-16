@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title></title>
+</head>
+<body>
+<h3>Educational Qualifications</h3>
+            <table>
+                <tr id="heading">
+                    <td>Qualification</td>
+                    <td>Board</td>
+                    <td>Percentage / Grades</td>
+                    <td>Year</td>
+                </tr>
+                <tr>
+                    <td>S.S.C</td>
+                    <td>G.S.E.B India</td>
+                    <td>75.57%</td>
+                    <td>2004</td>
+                </tr>
+                <tr>
+                    <td>H.S.C (Science Stream)</td>
+                    <td>G.S.E.B India</td>
+                    <td>72.40%</td>
+                    <td>2006</td>
+                </tr>
+                <tr>
+                    <td>GDCA (Grad. Dipl in Computer Applications)</td>
+                    <td>NIE (National Institute Of Engineering), Mumbai, India</td>
+                    <td>A Grade</td>
+                    <td>2008</td>
+                </tr>
+</body>
+</html>
