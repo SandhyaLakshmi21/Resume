@@ -4,7 +4,7 @@
 </head>
         <style>
 body {background-color: #C1E3E1;}
-Table   {background-color: powderblue;}
+Table   {color: powderblue;}
 p    {color: red;}
         </style>
 <body>
