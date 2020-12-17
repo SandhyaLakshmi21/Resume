@@ -5,16 +5,17 @@
         <style>
 body {background-color: #C1E3E1;}
 
-#t01 th {
+th {
   background-color: black;
   color: white;
 h3  {color: red;}
+img  {right-align}
         </style>
 <body>
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>       
          <p id="contact">+91 75036 10708</p>
-         <img src="girl.jpg" width="200" height="200"  style="right-align>
+         <img src="girl.jpg" width="200" height="200">
      </div>
      <div class="left">
      </div>
