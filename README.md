@@ -16,7 +16,7 @@ h3 {color: tomato;}
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>       
          <p id="contact">+91 75036 10708</p>
-         <a href="mailto:sandhyalakshmi2196@gmail.com">Send email</a>
+         <a href="mailto:sandhyalakshmi2196@gmail.com">Email</a>
 </div>
      <div class="left">
      </div>
@@ -61,8 +61,10 @@ h3 {color: tomato;}
                 <tr>
                     <td>B.TECH (Biotechnology)</td>
                     <td>SRM University,Chennai</td>
+                        <a href="https://www.srmist.edu.in/">Email</a>
                     <td>1ST Class</td>
                     <td>2019</td>
+                        
                 </tr>
                 
             </table>
