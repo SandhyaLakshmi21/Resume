@@ -15,7 +15,8 @@
             <p>
             <ul>
                 <li>Anchored Milan'19(SRM Cultural Fest) </li>
-                <li>Elected as Committee Head in Aaruush'17(National level Techno FestPublicity Domain)</li></ul>
+                <li>Elected as Committee Head in Aaruush'17(National level Techno FestPublicity Domain)</li>
+            </ul>
             </p>
             <h3>Work Experience</h3>
             <h4 id="company-name">Medopharm Pvt Ltd</h4>
@@ -25,6 +26,7 @@
             <ul>
                 <li>Analysis of Finished product and raw materials</li>
                 <li>Media Preparation</li>
+            </ul>
             </p>
             <h3>Educational Qualifications</h3>
             <table>
@@ -84,7 +86,6 @@
                 <li>Volunteered Aaruush'15 (Hospitality Domain)</li>
                 <li>Volunteered Rariora'15 (Biotechnology Symposium)</li>
             </ul>
-
             </p>
             <h3>Personal Information:</h3>
             <p>
@@ -113,4 +114,4 @@
      </div>
      <div id="footer"></div>
     </body>
-</html>
+    </html>
