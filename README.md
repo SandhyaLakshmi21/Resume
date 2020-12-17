@@ -4,30 +4,17 @@
 </head>
         <style>
 body {background-color: #C1E3E1;}
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-  text-align: left;
-}
-#t01 tr:nth-child(even) {
-  background-color: #eee;
-}
-#t01 tr:nth-child(odd) {
- background-color: #fff;
-}
+
 #t01 th {
   background-color: black;
   color: white;
-declaration   {color: red;}
+h3  {color: red;}
         </style>
 <body>
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>       
          <p id="contact">+91 75036 10708</p>
-         <img src="girl.jpg" width="200" height="200">
+         <img src="girl.jpg" width="200" height="200"  style="right-align>
      </div>
      <div class="left">
      </div>
