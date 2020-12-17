@@ -8,7 +8,7 @@ body {background-color: #C1E3E1;}
 th {
   background-color: black;
   color: white;
-h3  {color: red;}
+h3 {color: red;}
         </style>    
         <div style="text-align: left"><img src="girl.jpg" width="200" height="200">
      </div>
@@ -69,13 +69,14 @@ h3  {color: red;}
             <p>
             <ul>
                 <li>
-                <span id="course-name">SQL</li>
+                <span id="course-name">SQL
+                </li>
                 <li>
-                <span id="course-name">ASP.NET</li>
+                <span id="course-name">ASP.NET
+                </li>
                 <li>
-                <span id="course-name">MVC</li>
-                <li>
-
+                <span id="course-name">MVC
+                </li>               
             </ul>
             <h3>Technical Skills</h3>
             <p>
