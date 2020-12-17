@@ -10,7 +10,7 @@ th {
   color: white;
 h3 {color: red;}
         </style>    
-        <div style="text-align: left"><img src="girl.jpg" width="200" height="200">
+        <div style="text-align: right"><img src="girl.jpg" width="200" height="200">
      </div>
 <body>
 <div id="header">
