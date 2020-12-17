@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
- <head>
-<title></title>
+<head>
+<title>RESUME</title>
 </head>
 <body>
 <div id="header">
