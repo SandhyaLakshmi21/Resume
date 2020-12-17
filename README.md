@@ -5,10 +5,10 @@
         <style>
 body {background-color: #C1E3E1;}
 
-th {
+ta{
   background-color: black;
   color: white;
-h3 {color: red;}
+h3 {color: tomato;}
         </style>    
         <div style="text-align: right"><img src="girl.jpg" width="200" height="200">
      </div>
