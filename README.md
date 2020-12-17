@@ -5,6 +5,15 @@
 <body>
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>
+         <style type="text/css">
+                  {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
          <p id="contact">+91 75036 10708</p>
          <img src="girl.jpg" width="200" height="200">
      </div>
