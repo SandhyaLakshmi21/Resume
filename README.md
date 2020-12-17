@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="header">
-<p id="name">Sandhya Lakshmi</p>
+<h1 id="name">Sandhya Lakshmi</h1>
          <p id="contact">+91 75036 10708</p>
      </div>
      <div class="left">
@@ -92,11 +92,11 @@
             <ul>
                 <li>
                 A young, Smart worker with capabilities of hard worker and with Dynamic troubleshooting adroitness.
-
+                </li>
                 <li>
                 <span id="course-name">Languages Known:</span>English,Tamil, German</li>
-                <li>
-                </ul>
+                </li>
+             </ul>
             </p>
             <h3>Other Information</h3>
             <p>
