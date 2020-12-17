@@ -60,8 +60,7 @@ h3 {color: tomato;}
                 </tr>
                 <tr>
                     <td>B.TECH (Biotechnology)</td>
-                    <td>SRM University,Chennai</td>
-                        <a href="https://www.srmist.edu.in/">Email</a>
+                    <td href="https://www.srmist.edu.in/">SRM Website>SRM University,Chennai</td>                  
                     <td>1ST Class</td>
                     <td>2019</td>
                         
