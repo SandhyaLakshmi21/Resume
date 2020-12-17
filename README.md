@@ -6,7 +6,7 @@
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>
          <p id="contact">+91 75036 10708</p>
-         <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+         <img src="girl.jpg" alt="Girlt" width="200" height="200">
      </div>
      <div class="left">
      </div>
