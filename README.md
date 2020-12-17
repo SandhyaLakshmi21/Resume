@@ -4,7 +4,9 @@
 </head>
         <style>
 body {background-color: #C1E3E1;}
-Table   {color: powderblue;}
+t01 th {
+  background-color: black;
+  color: white;
 p    {color: red;}
         </style>
 <body>
