@@ -96,7 +96,7 @@
                 <li>
                 <span id="course-name">Languages Known:</span>English,Tamil, German</li>
                 </li>
-             </ul>
+            </ul>
             </p>
             <h3>Other Information</h3>
             <p>
@@ -106,7 +106,8 @@
                 <li>
                 <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Coding, App Development, Technical Support, Support Engineer, Customer Happiness, Client service, Investment Banking, Corporate Finance, Hedge Funds, Mergers & Acquisitions, Analyst, Equity Research, Business Analysis</li>
                 <li>
-                <span id="course-name">Joining Date:</span>Immediate</li></ul>
+                <span id="course-name">Joining Date:</span>Immediate</li>
+            </ul>
             </p>
             <h3>Declaration</h3>
             <p>
