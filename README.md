@@ -9,7 +9,9 @@ th {
   background-color: black;
   color: white;
 h3  {color: red;}
-        </style>
+        </style>    
+        <div style="text-align: left"><img src="girl.jpg" width="200" height="200">
+     </div>
 <body>
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>       
@@ -120,7 +122,6 @@ h3  {color: red;}
             <p>
             I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
      </div>
-     <div style="text-align: left"><img src="girl.jpg" width="200" height="200">
-     </div>
+
     </body>
     </html>
