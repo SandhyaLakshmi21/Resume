@@ -16,6 +16,7 @@ h3 {color: tomato;}
 <div id="header">
 <h1 id="name">Sandhya Lakshmi</h1>       
          <p id="contact">+91 75036 10708</p>
+         <a href="mailto:sandhyalakshmi2196@gmail.com">Send email</a>
 </div>
      <div class="left">
      </div>
