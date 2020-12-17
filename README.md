@@ -3,8 +3,8 @@
 <title>RESUME</title>
 </head>
         <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
+body {background-color: #C1E3E1;}
+Table   {background-color: powderblue;}
 p    {color: red;}
         </style>
 <body>
