@@ -69,14 +69,11 @@ h3 {color: red;}
             <p>
             <ul>
                 <li>
-                <span id="course-name">SQL
-                </li>
+                <span id="course-name">SQL</li>
                 <li>
-                <span id="course-name">ASP.NET
-                </li>
+                <span id="course-name">ASP.NET</li>
                 <li>
-                <span id="course-name">MVC
-                </li>               
+                <span id="course-name">MVC</li>               
             </ul>
             <h3>Technical Skills</h3>
             <p>
